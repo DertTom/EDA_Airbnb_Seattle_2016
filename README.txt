@@ -6,9 +6,10 @@ It answers the questions:
 1. What is the price profile of different locations?
 2. How does the season relate to the price?
 3. How do room type, property type and amenities relate to the price?
+It also predicts the price with an XGBoost regression model
 
-It also tries to predict the price with an XGBoost regression model
-
+A high level article about the results can be found here:
+https://medium.com/@ziesl/how-to-choose-an-intial-price-for-airbnb-hosting-c662b76a0090
 
 
 The repository contains:
