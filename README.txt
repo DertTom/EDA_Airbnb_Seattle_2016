@@ -12,8 +12,29 @@ A high level article about the results can be found here:
 https://medium.com/@ziesl/how-to-choose-an-intial-price-for-airbnb-hosting-c662b76a0090
 
 
-The repository contains:
+
+Repository content
+############################
 - eda_Airbnb_Seattle.ipynb: A jupyter notebook, containing the EDA 
 - environment_Seattle.yml: A yml to create a conda environment for the notebook (To run it: "conda env create -f environment_Seattle.yml")
 - eda_Airbnb_Seattle.html: The html export of the notebook
 - Data folder: Contains the datasets, exported from: https://www.kaggle.com/datasets/airbnb/seattle/data
+
+
+Libraries used
+############################
+- numpy
+- pandas
+- matplotlib.pyplot
+- seaborn
+- sklearn
+- xgboost
+
+
+
+Acknowledgements
+############################
+Dataset:
+Seattle Airbnb Open Data (link: https://www.kaggle.com/datasets/airbnb/seattle/data)
+The dataset is part of Airbnb Inside, and the original source can be found here: https://insideairbnb.com/get-the-data/
+
