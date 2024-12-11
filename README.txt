@@ -38,3 +38,7 @@ Dataset:
 Seattle Airbnb Open Data (link: https://www.kaggle.com/datasets/airbnb/seattle/data)
 The dataset is part of Airbnb Inside, and the original source can be found here: https://insideairbnb.com/get-the-data/
 
+Picture:
+Foto von Alexander Grey auf Unsplash
+Link: https://unsplash.com/de/@sharonmccutcheon?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash
+Unplash: https://unsplash.com/de/fotos/fokusfotografie-einer-person-die-dollar-banknoten-zahlt--8a5eJ1-mmQ?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash
